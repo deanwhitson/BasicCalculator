@@ -1,0 +1,7 @@
+C:\e4\Hackathon\Project\BasicCalculatorRepo\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+C:\e4\Hackathon\Project\BasicCalculatorRepo\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+C:\e4\Hackathon\Project\BasicCalculatorRepo\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+C:\e4\Hackathon\Project\BasicCalculatorRepo\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+C:\e4\Hackathon\Project\BasicCalculatorRepo\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+C:\e4\Hackathon\Project\BasicCalculatorRepo\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+C:\e4\Hackathon\Project\BasicCalculatorRepo\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
