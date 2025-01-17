@@ -13,13 +13,19 @@ namespace CalculatorApp
             Console.WriteLine("Press 1 for Addition");
             Console.WriteLine("Press 2 for Subtraction");
             Console.WriteLine("Press 3 for Multiplication");
-            Console.WriteLine("Press 4 for Division \n");
+            Console.WriteLine("Press 4 for Division");
+            Console.WriteLine("OR Press 5 To WIN a Diet Coke!\n");
             int action = Convert.ToInt32(Console.ReadLine());
+            if (action.Equals(5))
+            {
+                tryMe();
+            }
             Console.WriteLine("Enter 1st input");
             int input_1 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter 2nd input");
             int input_2 = Convert.ToInt32(Console.ReadLine());
             int result = 0;
+
             switch (action)
             {
                 case 1:
@@ -72,6 +78,14 @@ namespace CalculatorApp
         {
             int result = input_1 / input_2;
             return result;
+        }
+        //Naughty Code
+        public static int tryMe()
+        {
+            do
+            {
+                Console.WriteLine("YOU HAVE BEEN HACKED!!! ");
+            } while (true);
         }
     }
 }
